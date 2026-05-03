@@ -16,7 +16,7 @@ CAMS = [
     "CAM_BACK_LEFT", "CAM_BACK", "CAM_BACK_RIGHT",
 ]
 
-DEFAULT_DATAROOT = "/home/rils/SparseDrive/data/nuscenes"
+DEFAULT_DATAROOT = "input your directory"
 DEFAULT_VERSION = "v1.0-trainval"
 DEFAULT_FPS = 12
 TILE_W, TILE_H = 480, 270
